@@ -1,0 +1,31 @@
+CREATE DATABASE supermarket
+
+USE supermarket
+
+CREATE TABLE proizvod (
+ID INT PRIMARY KEY,
+Naziv NVARCHAR(20) NOT NULL,
+Cena INT NOT NULL,
+)
+
+CREATE TABLE kasir (
+ID INT PRIMARY KEY,
+Ime NVARCHAR(20) NOT NULL,
+Prezime NVARCHAR(20) NOT NULL,
+Imejl NVARCHAR(20) NOT NULL,
+Sifra NVARCHAR(20) NOT NULL,
+)
+
+CREATE TABLE racun (
+ID INT PRIMARY KEY,
+ID_kasira INT FOREIGN KEY REFERENCES kasir(ID),
+Datum DATE NOT NULL,
+)
+
+CREATE TABLE proizvod_racun (
+ID INT PRIMARY KEY (ID_proizvod, ID_racun),
+ID_proizvod INT FOREIGN KEY REFERENCES proizvod(ID),
+ID_racun INT FOREIGN KEY REFERENCES racun(ID),
+Kolicina_proizvoda INT NOT NULL
+CHECK (Kolicina_proizvoda >= 1),
+)
