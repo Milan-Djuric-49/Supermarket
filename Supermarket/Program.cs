@@ -10,6 +10,7 @@ namespace Supermarket
     {
         static public string user_ime = "";
         static public string user_prezime = "";
+        static public int user_id = -1;
         /// <summary>
         /// The main entry point for the application.
         /// </summary>

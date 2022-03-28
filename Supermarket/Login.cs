@@ -49,9 +49,10 @@ namespace Supermarket
                             MessageBox.Show("Uspesna prijava!");
                             Program.user_ime = tabela.Rows[0]["Ime"].ToString();
                             Program.user_prezime = tabela.Rows[0]["Prezime"].ToString();
+                            Program.user_id = (int)tabela.Rows[0]["ID"];
                             this.Hide();
-                            Racun frm_glavna = new Racun();
-                            frm_glavna.Show();
+                            Racun frm_racun = new Racun();
+                            frm_racun.Show();
                         }
                         else
                         {
