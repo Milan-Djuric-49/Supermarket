@@ -8,6 +8,8 @@ namespace Supermarket
 {
     static class Program
     {
+        static public string user_ime = "";
+        static public string user_prezime = "";
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
@@ -16,7 +18,7 @@ namespace Supermarket
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Login());
         }
     }
 }
