@@ -40,4 +40,5 @@ INSERT INTO proizvod VALUES
 (1, 'Cokolada', '100'),
 (2, 'Kikiriki', '120'),
 (3, 'Napolitanke', '200'),
-(4, 'Sok od jabuke', '150')
+(4, 'Sok od jabuke', '150'),
+(5, 'Mleko', '420')

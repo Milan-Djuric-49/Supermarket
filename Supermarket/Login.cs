@@ -50,8 +50,8 @@ namespace Supermarket
                             Program.user_ime = tabela.Rows[0]["Ime"].ToString();
                             Program.user_prezime = tabela.Rows[0]["Prezime"].ToString();
                             this.Hide();
-                            //Glavna frm_glavna = new Glavna();
-                            //frm_glavna.Show();
+                            Racun frm_glavna = new Racun();
+                            frm_glavna.Show();
                         }
                         else
                         {

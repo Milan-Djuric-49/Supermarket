@@ -8,3 +8,4 @@ C:\Users\pedja\OneDrive\Documents\GitHub\Supermarket\Supermarket\obj\Debug\Super
 C:\Users\pedja\OneDrive\Documents\GitHub\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.CoreCompileInputs.cache
 C:\Users\pedja\OneDrive\Documents\GitHub\Supermarket\Supermarket\obj\Debug\Supermarket.exe
 C:\Users\pedja\OneDrive\Documents\GitHub\Supermarket\Supermarket\obj\Debug\Supermarket.pdb
+C:\Users\pedja\OneDrive\Documents\GitHub\Supermarket\Supermarket\obj\Debug\Supermarket.Racun.resources
