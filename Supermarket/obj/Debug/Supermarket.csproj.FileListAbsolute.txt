@@ -9,3 +9,14 @@ C:\Users\pedja\OneDrive\Documents\GitHub\Supermarket\Supermarket\obj\Debug\Super
 C:\Users\pedja\OneDrive\Documents\GitHub\Supermarket\Supermarket\obj\Debug\Supermarket.exe
 C:\Users\pedja\OneDrive\Documents\GitHub\Supermarket\Supermarket\obj\Debug\Supermarket.pdb
 C:\Users\pedja\OneDrive\Documents\GitHub\Supermarket\Supermarket\obj\Debug\Supermarket.Racun.resources
+D:\GitHub\Supermarket\Supermarket\bin\Debug\Supermarket.exe.config
+D:\GitHub\Supermarket\Supermarket\bin\Debug\Supermarket.exe
+D:\GitHub\Supermarket\Supermarket\bin\Debug\Supermarket.pdb
+D:\GitHub\Supermarket\Supermarket\obj\Debug\Supermarket.csprojAssemblyReference.cache
+D:\GitHub\Supermarket\Supermarket\obj\Debug\Supermarket.Login.resources
+D:\GitHub\Supermarket\Supermarket\obj\Debug\Supermarket.Properties.Resources.resources
+D:\GitHub\Supermarket\Supermarket\obj\Debug\Supermarket.Racun.resources
+D:\GitHub\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.GenerateResource.cache
+D:\GitHub\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.CoreCompileInputs.cache
+D:\GitHub\Supermarket\Supermarket\obj\Debug\Supermarket.exe
+D:\GitHub\Supermarket\Supermarket\obj\Debug\Supermarket.pdb
